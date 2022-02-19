@@ -1,0 +1,10 @@
+﻿  SudokuDemo.cpp
+C:\Users\Admin\source\repos\SudokuDemo\SudokuDemo\Algorithm.h(76,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\SudokuDemo\SudokuDemo\Algorithm.h(92,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SudokuDemo\SudokuDemo\Algorithm.h(149,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SudokuDemo\SudokuDemo\Algorithm.h(174,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\SudokuDemo\SudokuDemo\Algorithm.h(185,27): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Admin\source\repos\SudokuDemo\SudokuDemo\Algorithm.h(205,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\SudokuDemo\SudokuDemo\Algorithm.h(213,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\SudokuDemo\SudokuDemo\Algorithm.h(221,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SudokuDemo.vcxproj -> C:\Users\Admin\source\repos\SudokuDemo\Debug\SudokuDemo.exe
